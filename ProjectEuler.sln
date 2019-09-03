@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "Problem1\Proble
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectEuler", "ProjectEuler", "{5FA4E19E-C168-4410-BFEC-448E1FDBDF66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{ADBBE90F-A32E-441C-9D6F-620832DC02B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{A1FEAAD4-A802-4616-8A11-5340935116A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1FEAAD4-A802-4616-8A11-5340935116A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1FEAAD4-A802-4616-8A11-5340935116A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBBE90F-A32E-441C-9D6F-620832DC02B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBBE90F-A32E-441C-9D6F-620832DC02B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBBE90F-A32E-441C-9D6F-620832DC02B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBBE90F-A32E-441C-9D6F-620832DC02B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A1FEAAD4-A802-4616-8A11-5340935116A1} = {5FA4E19E-C168-4410-BFEC-448E1FDBDF66}
+		{ADBBE90F-A32E-441C-9D6F-620832DC02B8} = {5FA4E19E-C168-4410-BFEC-448E1FDBDF66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8AFF3AB-DF9C-428D-84E4-7D5423F61B56}
