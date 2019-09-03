@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*
  Multiples of 3 and 5
  If we list all the natural numbers below 10 that 
@@ -14,7 +10,7 @@ namespace Problem1
 {
     class Program
     {
-        static int FindSumOfMultiplies(int n)
+        static int FindSumOfMultipliesOfThreeAndFive(int n)
         {
             int sum = 0;
             for (int i = 0; i < n; i++)
@@ -29,7 +25,7 @@ namespace Problem1
         }
         static void Main(string[] args)
         {
-            FindSumOfMultiplies(1000);
+            FindSumOfMultipliesOfThreeAndFive(1000);
         }
     }
 }
