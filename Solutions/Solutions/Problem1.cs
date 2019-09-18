@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem3
+namespace Solutions
 {
-    class Program
+    class Problem1
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
