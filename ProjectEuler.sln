@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{C249E15B-69DF-4D00-B15A-394095F2B330}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C249E15B-69DF-4D00-B15A-394095F2B330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C249E15B-69DF-4D00-B15A-394095F2B330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C249E15B-69DF-4D00-B15A-394095F2B330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C249E15B-69DF-4D00-B15A-394095F2B330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
