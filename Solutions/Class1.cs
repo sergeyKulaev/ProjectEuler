@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Solutions
 {
-    class Problem1
+    class Class1
     {
     }
 }
